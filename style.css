@@ -1,16 +1,147 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat");
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 10px;
+}
+
+header {
+  background-color: #476ce4;
+  border-radius: 15px;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  color: #F6F5F5;
+  /* font-family: "McLaren", cursive; */
+  font-weight: 200;
+}
+
+.testimonial-container {
+    background-color: #476ce4;
+    color: white;
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 50px 80px;
+    max-width: 768px;
+    position: relative;
+}
+
+.fa-quote {
+    color: rgba(255, 255, 255, 0.3);
+    font-size: 28px;
+    position: absolute;
+    top: 70px;
+}
+
+.fa-quote-right {
+    left: 40px;
+}
+
+.fa-quote-left {
+    right: 40px;
+}
+
+.textimonial {
+    line-height: 28px;
+    text-align: justify;
+}
+
+.user {
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    overflow: hidden;
+}
+
+.user .user-image {
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    object-fit: cover;
+}
+
+.user .user-details {
+    margin-left: 10px;
+}
+
+.user .user-name {
     margin: 0;
+}
+
+.user .user-role {
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+.progress-bar {
+    background-color: #fff;
+    height: 4px;
+    width: 100%;
+    animation: grow 10s linear infinite;
+    transform-origin: left;
+}
+
+@keyframes grow {
+    0% {
+        transform: scaleX(0);
+    }
+}
+
+.note {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+}
+
+/* .note h1 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+
+.note p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+} */
+
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+  }
+  
+  footer p {
+    color: gray;
+  }
+
+
+@media(max-width: 768px) {
+    .testimonial-container {
+        padding: 20px 30px;
+    }
+
+    .fa-quote {
+        display: none;
+    }
 }
