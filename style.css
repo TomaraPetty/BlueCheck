@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800;900&family=Roboto:wght@700;900&display=swap');
 
 * {
   box-sizing: border-box;
@@ -16,6 +16,7 @@ body {
 }
 
 header {
+  font-weight: bolder !important;
   top: 0;
   background-color: #476ce4;
   width: 100%;
@@ -24,6 +25,7 @@ header {
 }
 
 header h1 {
+    font-weight: 700 !important;
   color: #f6f5f5;
   font-weight: 200;
 }
