@@ -26,7 +26,7 @@ const testimonials = [
     position: "Dinosaur Museum",
     photo:
       "https://boneclones.com/images/store-product/product-1551-main-main-big-1415043687.jpg",
-    text: "We are a small business with a big reputation. Blue Check helped us secure verification for our museum which has made it easier for our customers to find us online. Tomara helped us out digitally so now we can focus on what we do best.",
+    text: "We are a small business with a big reputation. Blue Check helped us secure facebook verification for our museum which has made it easier for our customers to find us online. Tomara helped us out digitally so now we can focus on what we do best.",
   },
 ];
 

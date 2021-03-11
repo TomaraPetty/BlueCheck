@@ -45,7 +45,7 @@ i.icon-blue {
   background-color: #476ce4;
   color: white;
   border-radius: 15px;
-  margin: 20px auto;
+  margin: 75px auto;
   padding: 50px 80px;
   max-width: 768px;
   position: relative;
@@ -115,6 +115,7 @@ i.icon-blue {
   width: 250px;
   height: auto;
   border-radius: 50%;
+  padding: 10px;
   border-color: #9ad3bc;
   border-style: none double double none;
 }
@@ -138,8 +139,12 @@ footer {
 
   #profile {
       width: 100%;
-      padding: 10px;
       margin-bottom: 20px;
+      margin-top: 20px;
+  }
+
+  .icon {
+      width: 100%;
   }
 
   .fa-quote {
