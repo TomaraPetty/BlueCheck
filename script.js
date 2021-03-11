@@ -7,11 +7,11 @@ const footer = document.getElementById("footer");
 
 const testimonials = [
   {
-    name: "Miyah Myles",
-    position: "Pop artist",
-    photo: "https://randomuser.me/api/portraits/women/46.jpg",
+    name: "All My Friends Hate Me",
+    position: "Punk Band",
+    photo: "https://i.ido.bi/assets/post/2020/11/All-My-Friends-Hate-Me-650x650.jpg",
     text:
-      "Tomara rocks! Blue Check came through for us. She was easy to work with and got the job done in just a few days.",
+      "Tomara is a friend of the band. She got us verified for a birthday present, which was a killer surprise.",
   },
   {
     name: "Troy Ogletree",
@@ -20,13 +20,6 @@ const testimonials = [
       "https://pbs.twimg.com/profile_images/549991240415313920/BWEI-HJ4.jpeg",
     text:
       "Props to Tomara for making the verification process painless and fast - only taking a few days in my case! Being verified has helped me gain more validity as a musician and opened up the opportunity to collab with some amazing artists.",
-  },
-  {
-    name: "Jessica Anderson",
-    position: "Music artist",
-    photo:
-      "https://pbs.twimg.com/profile_images/964693148491329536/4tuJzx-j_400x400.jpg",
-    text: "i love Blue Check!",
   },
   {
     name: "Everything Prehistoric",
