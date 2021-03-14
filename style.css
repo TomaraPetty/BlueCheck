@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800;900&family=Roboto:wght@700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@700;900&display=swap');
 
 * {
   box-sizing: border-box;
@@ -143,6 +143,8 @@ footer {
       width: 100%;
       margin-bottom: 20px;
       margin-top: 20px;
+      border-color: #f4f4f4;
+      padding: 5% 25% 5% 25%;
   }
 
   .icon {
