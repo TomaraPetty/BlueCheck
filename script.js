@@ -7,34 +7,34 @@ const footer = document.getElementById("footer");
 
 const testimonials = [
   {
-    name: "Troy Ogletree",
-    position: "Pop artist",
+    name: "",
+    position: "",
     photo:
       "https://pbs.twimg.com/profile_images/549991240415313920/BWEI-HJ4.jpeg",
     text:
-      "Props to Tomara for making the verification process painless and fast - only taking a few days in my case! Being verified has helped me gain more validity as a musician and opened up the opportunity to collab with some amazing artists.",
+      "Props to Blue Check for making the verification process painless and fast - only taking a few days in my case! Being verified has helped me gain more validity as a musician and opened up the opportunity to collab with some amazing artists.",
   },
   {
-    name: "Diana Meyer",
-    position: "Rock musician",
+    name: "",
+    position: "",
     photo:
       "https://pbs.twimg.com/profile_images/1086022851503648769/baqPNKru.jpg",
     text:
-      "Tomara is awesome! the process was easy, straightforward and only took a few days. I definitely recommend working with her.",
+      "Blue Check is awesome! the process was easy, straightforward and only took a few days. I definitely recommend working with them.",
   },
   {
-    name: "All My Friends Hate Me",
-    position: "Punk Band",
+    name: "",
+    position: "",
     photo: "https://i.ido.bi/assets/post/2020/11/All-My-Friends-Hate-Me-650x650.jpg",
     text:
-      "Tomara is a friend of the band. She got us verified for a birthday present, which was a killer surprise.",
+      "We weren't sure if we qualified so when we got verified it was a killer surprise.",
   },
   {
-    name: "Everything Prehistoric",
-    position: "Dinosaur Museum",
+    name: "",
+    position: "",
     photo:
       "https://boneclones.com/images/store-product/product-1551-main-main-big-1415043687.jpg",
-    text: "We are a small business with a big reputation. Blue Check helped us secure facebook verification for our museum which has made it easier for our customers to find us online. Tomara helped us out digitally so now we can focus on what we do best.",
+    text: "We are a small business with a big reputation. Blue Check helped us secure verification for our museum which has made it easier for our customers to find us online. They helped us out digitally so now we can focus on what we do best.",
   },
 ];
 

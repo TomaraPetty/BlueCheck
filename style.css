@@ -18,16 +18,20 @@ body {
 header {
   font-weight: bolder !important;
   top: 0;
-  background-color: #476ce4;
+  background-color: #458eff;
   width: 100%;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
 
 header h1 {
-    font-weight: 700 !important;
+  font-weight: 700 !important;
   color: #f6f5f5;
   font-weight: 200;
+}
+
+header h1 i {
+  color: #f6f5f5;
 }
 
 #verification {
@@ -39,12 +43,12 @@ header h1 {
   position: relative;
 }
 
-i.icon-blue {
-  color: #476ce4;
+i {
+  color: #458eff;
 }
 
 .testimonial-container {
-  background-color: #476ce4;
+  background-color: #458eff;
   color: white;
   border-radius: 15px;
   margin: 75px auto;
@@ -114,12 +118,12 @@ i.icon-blue {
 }
 
 #profile {
-  width: 250px;
+  width: 100%;
   height: auto;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   padding: 10px;
-  border-color: #9ad3bc;
-  border-style: none double double none;
+  /* border-color: #9ad3bc; */
+  /* border-style: none double double none; */
 }
 
 .socials {
@@ -155,3 +159,18 @@ footer {
     display: none;
   }
 }
+
+@media (max-width: 1000px) {
+
+  #profile {
+    width: 75%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-color: #f4f4f4;
+    padding: 5% 25% 5% 25%;
+    margin-right: 10%;
+    margin-left: 10%;
+}  
+
+}
+
