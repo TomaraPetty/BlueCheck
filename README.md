@@ -15,7 +15,7 @@
 
 ## Description 
 *Overview of this project:* 
-* This is a website built for a personal side business in order to familiarize potential customers with my business and services. 
+* This website was built for a personal side business in order to familiarize potential customers with my business and services. 
 
 ## Installation
 *Steps required to install project and get the development environment established:*
