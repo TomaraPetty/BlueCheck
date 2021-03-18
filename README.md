@@ -29,7 +29,7 @@
 2. Services section outlines the top line services. 
 3. The testimonial section cycles through different testimonials from past clients.
 4. Process section at the bottom gives a step-by-step overview of the process.
-<img src="./public/assets/img/nwveg.gif">
+<img src="./assets/bluechecklogo.png">
 
 ## License 
 * Built under the MIT licence.
