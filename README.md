@@ -48,7 +48,6 @@
 <br>
 
 #### If you have any questions or want to make a contribution please reach out to me here:
-<br>
 
 **GitHub:** 
 @tomarapetty 
