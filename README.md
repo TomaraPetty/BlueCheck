@@ -51,13 +51,11 @@
 <br>
 
 **GitHub:** 
-* @tomarapetty 
- <br>
+@tomarapetty 
 
 **Email:** 
-* tomararuth@gmail.com 
-<br>
+tomararuth@gmail.com 
 
 **LinkedIn:** 
-* Tomara: https://www.linkedin.com/in/tomara-petty/ 
+Tomara: https://www.linkedin.com/in/tomara-petty/ 
 
