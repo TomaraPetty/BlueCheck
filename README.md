@@ -57,5 +57,5 @@
 tomararuth@gmail.com 
 
 **LinkedIn:** 
-Tomara: https://www.linkedin.com/in/tomara-petty/ 
+https://www.linkedin.com/in/tomara-petty/ 
 
