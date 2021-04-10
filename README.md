@@ -15,7 +15,7 @@
 
 ## Description 
 *Overview of this project:* 
-* This website was built for a personal side business in order to familiarize potential customers with my business and services. 
+* This website was built for verification company to familiarize potential customers with the business and services. Features a testimonial section that toggles between testimonials on a ten second timer. 
 
 ## Installation
 *Steps required to install project and get the development environment established:*
