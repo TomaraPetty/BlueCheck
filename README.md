@@ -31,7 +31,7 @@
 4. Process section at the bottom gives a step-by-step overview of the process.
 
 <p float="left">
-<img src="./images/bluechecklogo.png" width="150">
+<img src="./images/bluecheck.gif" width="150">
 
 ## License 
 * Built under the MIT licence.
