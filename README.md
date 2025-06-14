@@ -2,7 +2,7 @@
   
 ![GitHub](https://img.shields.io/badge/license-MIT-green)
 
-<a href="https://bluecheckverify.com/">Click here to see it in action.</a>
+<a href="https://tomarapetty.github.io/BlueCheck/">Click here to see it in action.</a>
 
 ## Table of Contents
 * [Description](#description)
